@@ -59,4 +59,4 @@ The dashboard helps visualize **how Netflix’s library evolved**, which countri
 ### 📬 Contact
 👤 **Pruthviraj V Mariguddi**  
 📧 [pruthvirajmariguddi@gmail.com](mailto:pruthvirajmariguddi@gmail.com)  
-🔗 [LinkedIn]([linkedin.com/in/pruthviraj-v-mariguddi-5b647228a](https://www.linkedin.com/in/pruthviraj-v-mariguddi-5b647228a/))
+🔗 [LinkedIn](https://www.linkedin.com/in/pruthviraj-v-mariguddi-5b647228a/)
